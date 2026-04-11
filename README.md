@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [E-commerce-store](https://github.com/nomiali1/E-commerce-store)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nomiali1](https://github.com/numan-ai-engineer)
+- 👨‍💻 All of my projects are available at (https://github.com/numan-ai-engineer)
 
 - 💬 Ask me about **JavaScript • React.js • Node.js • Full Stack Web Development • HTML • CSS**
 

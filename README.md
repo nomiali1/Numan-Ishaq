@@ -6,6 +6,7 @@
 ---
 
 ## 💡 About Me
+
 Currently learning TypeScript and modern frontend tooling
 
 I am a passionate Frontend Developer with experience in building modern, responsive web applications using React.js and Tailwind CSS.  

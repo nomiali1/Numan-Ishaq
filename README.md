@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=numan-ai-engineer&color=blue)
 # 👋 Hi, I'm Numan Ishaq
 
 🚀 Frontend Developer (React) | MERN Stack Developer | AI Enthusiast  

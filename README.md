@@ -17,6 +17,41 @@ I have worked on real-world projects and collaborated with teams to build scalab
 🔹 Strong focus on clean UI and performance  
 🔹 Interested in AI-powered SaaS applications  
 
+# 🚀 AI SaaS Content Generator
+
+A Full Stack AI SaaS application built using MERN stack.
+
+---
+
+## ✨ Features
+
+- User Authentication (Login System)
+- React Frontend with Routing
+- Node.js + Express Backend
+- MongoDB Database Integration
+- Clean UI with Navbar & Pages
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+---
+
+## 📸 Screenshots
+
+(Add your screenshots here)
+
+---
+
+## 🚀 Project Status
+
+Actively improving with new features daily.
 ---
 
 ## 🛠️ Tech Stack
